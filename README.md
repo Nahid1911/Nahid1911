@@ -1,5 +1,5 @@
 <!--### Hi there 👋 -->
-![Logo_2](https://github.com/Nahid1911/Nahid1911/assets/118947090/e843eafc-ed80-44da-9beb-877615918dd7)
+<!--![Logo_2](https://github.com/Nahid1911/Nahid1911/assets/118947090/e843eafc-ed80-44da-9beb-877615918dd7)-->
 
 ![Logo_3](https://github.com/Nahid1911/Nahid1911/assets/118947090/c8fd3a69-512b-4bfd-9541-c33fef270538)
 
