@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development at Microverse**
 
-- 📝 I regularly write articles on [https://medium.com/@nahid.raihan](https://medium.com/@nahid.raihan)
+- 📝 I regularly write articles on [Medium](https://medium.com/@nahid.raihan)
 
-- 💬 Ask me about **JavaScript, React, Redux, React-Botstrap, PostgreSQL, Ruby**
+- 💬 Ask me about **JavaScript, React, Redux, React-Botstrap, PostgreSQL, Ruby, Webpack, Jest, Rspec**
 
 - 📫 How to reach me **nahid.raihan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16KilkJnCByoyvtU6FRaJGi77W6BbuNTy/view?usp=sharing](https://drive.google.com/file/d/16KilkJnCByoyvtU6FRaJGi77W6BbuNTy/view?usp=sharing)
+- 📄 Know about my experiences [My CV Link](https://drive.google.com/file/d/16KilkJnCByoyvtU6FRaJGi77W6BbuNTy/view?usp=sharing)
 
 ### Blogs posts
 
