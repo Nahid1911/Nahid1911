@@ -11,9 +11,9 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@nahid.raihan)
 
-- 💬 Ask me about **JavaScript, React, Redux, React-Botstrap, PostgreSQL, Ruby, Webpack, Jest, Rspec**
+- 💬 Ask me about **JavaScript, React, Redux, React-Botstrap, PostgreSQL, Ruby, Ruby on Rails, Webpack, Jest, Rspec**
 
-- 📫 How to reach me **nahid.raihan@gmail.com**
+- 📫 You can email me to **nahid.raihan@gmail.com**
 
 - 📄 Know about my experiences [My CV Link](https://drive.google.com/file/d/16KilkJnCByoyvtU6FRaJGi77W6BbuNTy/view?usp=sharing)
 
