@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nahid1911" target="blank"><img src="https://img.shields.io/twitter/follow/nahid1911?logo=twitter&style=for-the-badge" alt="nahid1911" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development at Microverse**
+- 🌱 I have completed **Full Stack Web Development from Microverse**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@nahid.raihan)
 
