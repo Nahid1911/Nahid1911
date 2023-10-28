@@ -15,7 +15,7 @@
 
 - 📫 You can email me to **nahid.raihan@gmail.com**
 
-- 📄 Know about my experiences [Nahid Sardar Resume](https://drive.google.com/file/d/12QID9caGPJ2XAU4EmhcOcn3PbtUpCzDY/view?usp=drive_link)
+- 📄 Know about my experiences [Nahid Sardar Resume](https://drive.google.com/file/d/12VQbmxNaYHsYArwW9PQR-lHMRzPZlXAm/view?usp=sharing)
 
 ### Blogs posts
 
